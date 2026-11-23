@@ -4,7 +4,7 @@ date: 2026-11-23 17:00:00 +0900
 categories: [AI+X, Deep Learning]
 tags: [autoencoder, anomaly detection, audit, jet]
 math: true
-media_subpath: /assets/img/posts/midterm/
+media_subpath: /assets/
 ---
 
 
